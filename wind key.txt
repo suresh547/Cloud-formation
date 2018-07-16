@@ -1,0 +1,21 @@
+Public IP 	13.127.72.110
+User name 	Administrator
+Password 	
+&M!CE;gy&Q$
+
+
+
+
+Private IP 	192.168.1.4
+User name 	Administrator
+Password 	
+3f8EF82oa%m
+
+
+
+
+2n private subnet ec2 in mumbai
+Public IP 	13.127.227.129
+User name 	Administrator
+Password 	
+qiea$j8W5zP
